@@ -1,0 +1,83 @@
+Script started on 2026-02-06 10:59:33+00:00 [TERM="xterm" TTY="/dev/pts/1" COLUMNS="71" LINES="24"]
+# ls
+folder1  folder2  practice
+# ls -F
+folder1/  folder2/  practice/
+# mkdir Exam
+# ls
+Exam  folder1  folder2	practice
+# mkdir       cd d Exam
+# ls
+# mkdir -p Styu  d udt y? /Certic=       S       Subject? /E Linu    Telgu  ugu
+# ls
+Subject
+# m pwd
+/linux-basics/file-dir-mgt/Exam
+# cd Exam
+sh: 10: cd: can't cd to Exam
+# ls   ex  Ema   
+Subject
+# cd Tel      pwd
+/linux-basics/file-dir-mgt/Exam
+# ls
+Subject
+# ls u sub   Subject
+Telugu
+# cd Telugu
+sh: 15: cd: can't cd to Telugu
+# ls -FR Exam
+ls: cannot access 'Exam': No such file or directory
+# cd ../..
+# ls
+README.md  file-dir-mgt
+# pw  pwd
+/linux-basics
+# cd 
+# ls l 
+# ls linux-basics
+ls: cannot access 'linux-basics': No such file or directory
+# cd    ca d lun  inux-basics
+sh: 23: cd: can't cd to linux-basics
+# cd /linux-basics
+# ls
+README.md  file-dir-mgt
+# file    cd /file-dir-mgt
+sh: 26: cd: can't cd to /file-dir-mgt
+# cd file-dir-mgt
+# ls
+Exam  folder1  folder2	practice
+# cd Exam
+# ls
+Subject
+# cd ..
+# ls
+Exam  folder1  folder2	practice
+# ls -FR s Em xam
+Exam:
+Subject/
+
+Exam/Subject:
+Telugu/
+
+Exam/Subject/Telugu:
+# rm  dir Exam
+rmdir: failed to remove 'Exam': Directory not empty
+# cd Examp 
+# ls
+Subject
+# ls -fr  FR Subject
+Subject:
+Telugu/
+
+Subject/Telugu:
+# cp -r Subject/ new  Dir
+# cd  ls
+Subject  newDir
+# c ls -FR s newDir
+newDir:
+Telugu/
+
+newDir/Telugu:
+# exit
+
+Script done on 2026-02-06 11:08:05+00:00 [COMMAND_EXIT_CODE="0"]
