@@ -1,0 +1,49 @@
+Script started on 2026-02-06 06:39:40+00:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="71" LINES="24"]
+# cat     cat folder1/indii an_states.txt
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chhattisgarh
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+# wc -l folder1/        ^[[A^[[A^[[A^[[B^[[B^[[B^[[A^[[A^[[A\\\\\\                                            folder1/di  indiab n_states.txt
+28 folder1/indian_states.txt
+# head -n 5 foldo       5 fole    fodler    lder1/indian_s t ste ates.xtt   txt
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chhattisgarh
+# tailw  - -5 folder1/indina  an_states.txt
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+# g fre   grie  ep -9 i Andhra folder1/fi  indian_states.txt
+Andhra Pradesh
+# exit
+
+Script done on 2026-02-06 06:43:43+00:00 [COMMAND_EXIT_CODE="0"]
